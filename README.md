@@ -28,6 +28,7 @@ week9|[https://github.com/nakirifumiya/co110a/wiki/week9](https://github.com/nak
 欄位 | 作業連結
 -----|--------
 homework1|[https://github.com/nakirifumiya/co110a/blob/master/271710694_1044474146128301_7128151131177955580_n.jpg](https://github.com/nakirifumiya/co110a/blob/master/271710694_1044474146128301_7128151131177955580_n.jpg)
+final report|[https://github.com/nakirifumiya/co110a/wiki/Final.md](https://github.com/nakirifumiya/co110a/wiki/Final.md)
 ---
 
 <a href="#" class="back-to-top">︽to the top︽</a>
